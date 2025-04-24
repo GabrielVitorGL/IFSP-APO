@@ -17,7 +17,7 @@ Stakeholders:
 * Cliente
 
 
-## Áreas
+## Áreas de negócio
 
 ### Gerente
 
@@ -33,4 +33,21 @@ Stakeholders:
   * Controle de Produtividade
 * Faturamento
 
-### Prestadores de serviço
+## Funcionalidades
+
+### Contas à Pagar
+* Cadastrar conta à pagar
+* Alterar Status da conta
+  * A vencer
+  * Vencida
+  * Paga
+  * Negociada
+
+### Contas à Receber
+* Alterar Status Contas à Receber
+
+
+# P/ Semana que vem:
+* Dupla
+* Tema
+* Brainstorm (como o exemplo acima) sobre o tema
